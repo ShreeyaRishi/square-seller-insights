@@ -1,0 +1,9 @@
+venv/
+*.pyc
+__pycache__/
+.DS_Store
+*.ipynb_checkpoints
+Square Project.ipynb
+dashboard_old.py
+dashboard_backup.py
+.ipynb_checkpoints/

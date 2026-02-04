@@ -1,0 +1,501 @@
+review_id,author,rating,date,theme,sentiment,key_insight,feature_mentions,is_churn_risk
+0,Jsonman,1,2026-02-01T16:55:23-07:00,features,very_negative,"The updates are causing significant issues with basic POS functions, making it difficult for the team to use the tool effectively.","['till counting tool', 'number pad', 'current bill type']",True
+1,sugvolpentaper,1,2026-02-01T07:20:08-07:00,ease-of-use,very_negative,Using another website alongside Shopify is counterproductive and complicates the user experience.,[],True
+2,Jovialcity,1,2026-02-01T07:05:09-07:00,support,very_negative,The lack of timely support from Shopify has severely impacted the user's ability to run their business.,"['mobile apps', 'recovery codes']",True
+3,86free,5,2026-01-31T16:29:33-07:00,other,very_positive,The reviewer expresses strong satisfaction with their experience.,[],False
+4,Nick Aiden’s,1,2026-01-30T10:21:10-07:00,support,very_negative,The reviewer expresses distrust in the company's integrity and dissatisfaction with customer support.,[],True
+5,Guess App Store,4,2026-01-29T10:19:50-07:00,ease-of-use,negative,The user encountered an error while trying to log into the app after updating.,"['registration', 'logging in']",True
+6,hondzilla,3,2026-01-25T23:44:50-07:00,features,negative,The app drains the phone's battery significantly.,[],True
+7,Lensky TDN,5,2026-01-25T21:48:22-07:00,other,very_positive,The seller is very satisfied with the service.,[],False
+8,lkagd,5,2026-01-24T06:11:38-07:00,features,very_positive,The Shopify deal is highly praised for its value.,['Shopify deal'],False
+9,J (former Robinhood user),1,2026-01-23T22:20:29-07:00,support,very_negative,Shopify's handling of account suspensions and chargebacks can severely impact cash flow for businesses.,"['monthly subscription fee', 'fraudulent chargebacks', 'payment functionality']",True
+10,Dr3hgfrr,5,2026-01-22T11:04:01-07:00,other,very_positive,The user expresses strong satisfaction with the product.,[],False
+11,Originator 88,2,2026-01-19T09:34:46-07:00,reliability,negative,The app frequently logs out when switching between applications and has poor integration with Shopify store apps.,"['logout issue', 'Shopify store apps']",True
+12,qjfidvybrj,3,2026-01-18T23:22:03-07:00,features,neutral,The user is experiencing issues with notifications on their iPhone.,['notifications'],True
+13,Окоьор,5,2026-01-18T02:49:14-07:00,ease-of-use,very_positive,The reviewer believes Shopify is the best platform for business.,[],False
+14,ljfg,1,2026-01-16T10:01:09-07:00,support,very_negative,The app fails to protect sellers from fraudulent charges and has hidden fees.,[],True
+15,Thevmarie,2,2026-01-14T13:07:17-07:00,ease-of-use,negative,The trial version caused significant issues with processing orders and reactivating the full version was complicated.,"['trial version', 'full version', 'payment processing']",True
+16,B.biz,1,2026-01-07T16:25:42-07:00,support,very_negative,The user is frustrated with the inability to withdraw funds from their account.,"['withdrawal process', 'account validation']",True
+17,Badder34,1,2026-01-06T12:46:40-07:00,pricing,very_negative,The user is frustrated with ongoing charges despite attempts to cancel.,[],True
+18,caroysoumas,1,2026-01-05T10:02:57-07:00,support,very_negative,The customer is frustrated with ongoing charges after account deactivation and ineffective support.,[],True
+19,iolpo,5,2026-01-04T20:51:42-07:00,features,very_positive,The app enhances the point of sale experience with various helpful features.,[],False
+20,Court court!,1,2026-01-04T14:17:11-07:00,other,very_negative,The reviewer expresses strong dissatisfaction with their experience.,[],True
+21,didannybeats,5,2026-01-04T09:20:45-07:00,ease-of-use,very_positive,The seller had a smooth experience fulfilling their first order.,[],False
+22,Master716248,1,2026-01-03T11:44:35-07:00,support,very_negative,The lack of phone support and poor customer service is frustrating for users.,[],True
+23,TheHotDogMan99,1,2026-01-02T23:51:09-07:00,pricing,very_negative,The reviewer feels misled by the short free trial and is frustrated with the payment requirement.,['free trial'],True
+24,Gomes’s,5,2026-01-01T13:41:15-07:00,other,very_positive,The reviewer believes Square is the best platform for making money.,[],False
+25,Cynical_Potato,1,2026-01-01T07:15:28-07:00,support,very_negative,The user faced significant difficulties in canceling their subscription and reaching customer support.,[],True
+26,brandonwilliamsTC,5,2025-12-30T08:20:30-07:00,other,very_positive,The user is optimistic about their financial future with the product.,[],False
+27,timk37378228,1,2025-12-29T11:36:38-07:00,features,very_negative,The seller is frustrated due to a lack of notifications.,['notifications'],True
+28,Bernabedejesus,5,2025-12-27T18:33:33-07:00,support,very_positive,The customer is enthusiastic about learning and seeks support.,[],False
+29,sodanuggets,1,2025-12-25T18:56:46-07:00,pricing,very_negative,The customer feels they were unfairly charged after canceling their payments and deleting their website.,"['website', 'payments']",True
+30,jagvgd44,1,2025-12-17T06:34:29-07:00,support,very_negative,The customer is frustrated with the lack of effective support and service failures during a critical time.,"['inventory transfer', 'website downtime']",True
+31,ivana hump.,1,2025-12-16T21:16:56-07:00,features,very_negative,The user is frustrated with the excessive use of AI in the update.,['AI'],True
+32,Ineedhelp111,3,2025-12-16T09:07:13-07:00,support,negative,The user is frustrated with the lack of effective support regarding payout issues.,"['payout', 'verification']",True
+33,Thank god its ultra,5,2025-12-16T04:20:36-07:00,ease-of-use,very_positive,Shopify has significantly helped a teenager start and grow their business.,[],False
+34,Nickisan!,4,2025-12-14T21:18:40-07:00,support,negative,The user experienced crashes related to uploading product photos and found the support lacking for mobile app issues.,"['.svg file', 'IOS update', 'app reinstall', 'remove all sessions']",True
+35,friendsoflyn,1,2025-12-12T01:12:19-07:00,support,very_negative,The seller experienced significant issues with the service.,[],True
+36,joemomma8,1,2025-12-10T18:15:11-07:00,other,very_negative,The product is perceived as a scam and not as advertised.,[],True
+37,oroyyelir,1,2025-12-10T03:07:10-07:00,pricing,very_negative,The customer is frustrated about being charged after canceling their subscription.,[],True
+38,TJ4life$,1,2025-12-09T21:07:29-07:00,pricing,very_negative,"The user experienced an unexpected charge after deleting an app, indicating issues with pricing transparency.",[],True
+39,medlouni,5,2025-12-09T05:21:40-07:00,features,positive,The user is experiencing an issue with the live visitors view on iPhone but still rates the service highly.,['live visitors view'],False
+40,slopes king,1,2025-12-07T08:42:23-07:00,other,very_negative,The age restriction for drop shipping is frustrating for potential young sellers.,[],True
+41,Pchrman,1,2025-12-07T05:57:57-07:00,ease-of-use,very_negative,The user finds the navigation and functionality of the system difficult to use.,"['POS', 'website template']",True
+42,thennonnnn,2,2025-12-06T19:46:32-07:00,ease-of-use,very_negative,"The app is slow and has multiple issues, making it frustrating to use.","['codes', 'personalize', 'configure', 'sales']",True
+43,Lucy2814,2,2025-12-06T05:32:19-07:00,features,negative,"The counter widget is not functioning properly with the latest iPhone update, which is disappointing.","['counter widget', 'liquid apps', 'tinted apps']",True
+44,Wesley Brawhn,5,2025-12-04T18:17:44-07:00,other,very_positive,The reviewer expresses strong affection for the service.,[],False
+45,Dritchh,1,2025-12-03T13:24:34-07:00,ease-of-use,very_negative,The app is not user-friendly and lacks adequate customer support.,"['customer service', 'account cancellation', 'billing']",True
+46,moonberryy,1,2025-11-29T12:11:50-07:00,features,very_negative,The user is frustrated with the inability to see product photos and edit image alt titles after an update.,"['product photos', 'image alt titles']",True
+47,Furtivetech,1,2025-11-29T07:29:25-07:00,pricing,very_negative,"The platform has high fees and hidden charges, making it an expensive choice.","['servers', 'credit processing']",True
+48,Jdub311,1,2025-11-28T19:50:37-07:00,ease-of-use,very_negative,The user finds Shopify's interface overly complicated and frustrating.,[],True
+49,Staunton089,1,2025-11-28T18:34:38-07:00,reliability,very_negative,"The app does not allow users to remove credit card information, leading to unauthorized charges.",['credit card information removal'],True
+50,aiintaxx,5,2025-11-28T14:45:29-07:00,integration,very_positive,The user appreciates the integration with Shopify.,['Shopify'],False
+51,Will P GMS,1,2025-11-27T01:54:30-07:00,pricing,very_negative,The customer is unhappy about an unexpected charge of $39.,[],True
+52,Bougie Brown Girl,5,2025-11-26T15:47:09-07:00,features,positive,The user loves the app but has a suggestion for improving the widget counter functionality.,['widget counter'],False
+53,Smallbusinessowner1,1,2025-11-21T20:52:04-07:00,pricing,very_negative,The seller feels misled by hidden fees and a lack of refund policy.,"['refund policy', 'program enrollment']",True
+54,Remika P,1,2025-11-21T17:35:47-07:00,ease-of-use,very_negative,The user finds the website building process to be extremely difficult and the tutorials outdated.,[],True
+55,F&0,2,2025-11-18T21:28:32-07:00,pricing,negative,The user is frustrated with Shopify's inability to allow account cancellation and ongoing charges.,[],True
+56,Morgan Ann 86,1,2025-11-17T07:34:54-07:00,pricing,very_negative,The user feels that the service is deceptive with unexpected charges and lacks control over their account and data.,"['apps installation', 'unexpected charges', 'account deletion', 'data control', 'domain access']",True
+57,Vocês são complicados,1,2025-11-16T04:48:55-07:00,support,very_negative,The reviewer is dissatisfied with the slow payment process.,[],True
+58,Hannah CM,5,2025-11-14T09:58:22-07:00,ease-of-use,very_positive,The user finds Shopify extremely easy to use for creating an e-commerce store.,[],False
+59,Sports🏈🏀⚽️🎾⚾️,1,2025-11-14T04:24:21-07:00,ease-of-use,very_negative,Shopify is difficult to use and requires excessive time for learning.,[],True
+60,Gtfggggkjjjjuy,1,2025-11-13T12:44:11-07:00,reliability,very_negative,The user experienced issues with order fulfillment and payout processing.,"['Printful', 'payout']",True
+61,"baby ""O",1,2025-11-11T13:44:38-07:00,ease-of-use,very_negative,The setup process is difficult for the reviewer.,[],True
+62,cazoolio,1,2025-11-10T07:38:18-07:00,support,very_negative,Shopify's lack of support and delayed fund release has caused significant financial strain and frustration.,"['AI chat box', 'email support system', 'banking info update', 'subscription fee']",True
+63,Ddf & mattress,1,2025-11-10T06:30:37-07:00,support,very_negative,The customer is extremely frustrated with the lack of support and communication from Shopify regarding their locked account issue.,"['help center', 'live agent', 'verification page', 'photo id']",True
+64,Ronnie Hadley,1,2025-11-08T08:56:10-07:00,support,very_negative,The user is frustrated with unauthorized access attempts after cancelling their account.,[],True
+65,Stefanelbr,5,2025-11-06T23:41:47-07:00,ease-of-use,very_positive,The platform is highly efficient and easy to use.,[],False
+66,Logiejogie,1,2025-11-06T18:03:12-07:00,support,very_negative,The user is frustrated with the lack of support and functionality in managing their account.,"['support page', 'live agent', 'new account for payouts', 'refund process']",True
+67,spindoc007,3,2025-11-03T19:42:57-07:00,ease-of-use,negative,The recent update has made the app less user-friendly and more complicated.,"['date selection', 'rolling dates', 'fixed dates']",True
+68,alexarugg,3,2025-11-03T07:24:31-07:00,reliability,negative,"The latest update has caused significant glitches, impacting usability.","['app functionality', 'website theme']",True
+69,rocklee22,1,2025-10-30T18:40:50-07:00,ease-of-use,very_negative,Recent updates have made the app frustrating to use due to bugs and poor UX changes.,"['date range on the dashboard', '1:1 time period comparisons', 'analytics page UX']",True
+70,Lkdhehehe,3,2025-10-29T04:35:09-07:00,ease-of-use,negative,The app is slow and has usability issues that frustrate the user.,[],True
+71,LukeP20,5,2025-10-27T04:32:44-07:00,ease-of-use,very_positive,Shopify is significantly better than Squarespace in terms of usability.,[],False
+72,bbghn,3,2025-10-26T11:55:47-07:00,features,negative,The inventory editing feature is causing unintended duplication of product quantities.,"['edit settings', 'inventory section', 'barcodes']",True
+73,Wynekinners,5,2025-10-25T03:57:18-07:00,ease-of-use,very_positive,The user loves the layout and finds it perfect.,['layout'],False
+74,QCHINAE,3,2025-10-20T17:47:45-07:00,features,negative,"The recent update has caused an inability to download product photos, which is a significant inconvenience.",['downloading product photos'],True
+75,Celialulu8,1,2025-10-19T19:59:25-07:00,features,very_negative,The updated Shopify App caused the Analytics page to become unavailable.,['Analytics page'],True
+76,tiffonee12,5,2025-10-16T10:58:46-07:00,ease-of-use,very_positive,The user is pleased with the ease of setting up their store and accessing its features.,[],False
+77,Jpyeinthesky,3,2025-10-14T16:17:13-07:00,ease-of-use,negative,"The recent update has made it more difficult for sellers to navigate photos, causing frustration.","['photo swiping', 'user interface']",True
+78,Hoska74,4,2025-10-12T01:43:24-07:00,features,positive,The user is requesting the addition of the Arabic language to the application.,['Arabic language'],False
+79,Prince Yaya777,5,2025-10-11T11:05:18-07:00,ease-of-use,very_positive,The user finds Shopify easy to use and is excited about making sales directly from their phone.,"['making a store', 'sales from phone']",False
+80,Charlie Dreger,5,2025-10-09T17:18:33-07:00,other,very_positive,Starting a business was a great decision for the reviewer.,[],False
+81,MaxWoodstock,1,2025-10-09T12:43:21-07:00,support,very_negative,The customer is dissatisfied with the service and demands a refund.,[],True
+82,Mr Anonned,5,2025-10-09T00:52:26-07:00,other,very_positive,The seller appreciates the service and encourages continued excellence.,[],False
+83,Aludanick,5,2025-10-06T05:52:46-07:00,support,very_positive,The customer service provided by Jantien was exceptional and efficient.,[],False
+84,Fat Fatrick,1,2025-09-30T19:54:48-07:00,features,very_negative,The AI provides inaccurate information and the website has significant glitches.,[],True
+85,Don’t Yu use this app,1,2025-09-30T08:14:12-07:00,support,very_negative,The customer is frustrated with the lack of communication and support regarding their account being on hold.,[],True
+86,Pennies not made,1,2025-09-28T05:15:54-07:00,pricing,very_negative,The user feels scammed due to being double charged without making any profit.,[],True
+87,bloodhoney____,1,2025-09-25T11:56:37-07:00,support,very_negative,The customer is frustrated with the lack of customer service and support.,[],True
+88,bob stubs 🏒,1,2025-09-25T09:01:40-07:00,pricing,very_negative,The customer is unhappy with the subscription costs and lack of alerts for payments.,[],True
+89,234483,1,2025-09-24T23:12:38-07:00,pricing,very_negative,The user is frustrated with being charged after canceling their subscription.,[],True
+90,Huzaifa N,5,2025-09-24T17:47:42-07:00,integration,very_positive,The integration with multiple buying sites is very easy.,[],False
+91,Oneandonly12321,2,2025-09-22T15:10:27-07:00,reliability,negative,The analytics and live view features are not functioning as expected for Plus users.,"['analytics', 'live view']",True
+92,packcrew,1,2025-09-22T11:00:33-07:00,other,very_negative,The customer is unhappy with the new logo and wants it changed back.,[],True
+93,Marcus Verus,1,2025-09-21T19:47:26-07:00,reliability,very_negative,The app stopped working after upgrading to a new phone.,"['captcha', 'request verification']",True
+94,JJZ@,1,2025-09-20T06:37:24-07:00,pricing,very_negative,The app incorrectly applies discounts without activation and fails to provide promised free days.,[],True
+95,Pp I mayor,1,2025-09-19T06:05:52-07:00,pricing,very_negative,The customer is frustrated with unexpected charges and misleading pricing.,"['subscription', 'basic subscription']",True
+96,MNBvPB82,1,2025-09-18T22:16:50-07:00,pricing,very_negative,The user feels they were deceived regarding the pricing and lost money.,[],True
+97,zeke…,1,2025-09-18T21:52:05-07:00,pricing,very_negative,The customer was charged after canceling their plan and does not understand the charge.,[],True
+98,Shotz4Shotz,5,2025-09-18T20:36:33-07:00,ease-of-use,very_positive,The user is very satisfied with Shopify and feels it helps them build their dream.,[],False
+99,Tsum Master,5,2025-09-18T16:11:24-07:00,ease-of-use,very_positive,The app is highly effective for selling online.,[],False
+100,breezyherrof,1,2025-09-17T09:57:30-07:00,support,very_negative,The customer is frustrated with the inability to cancel their subscription and lack of support from Shopify.,"['monthly billing', 'chat advisor', 'account access']",True
+101,PugistMobile,3,2025-09-16T10:14:19-07:00,reliability,negative,"The app frequently crashes when adding photos, causing significant delays.",['photo upload'],True
+102,Paulpar88,1,2025-09-15T09:42:01-07:00,support,very_negative,The customer is frustrated with the lack of effective customer support and account access.,"['customer support', 'account access', 'AI bot']",True
+103,Juniorsvg12,1,2025-09-14T12:11:24-07:00,support,very_negative,The reviewer expresses frustration over Shopify's abrupt termination of their store and the withholding of funds.,[],True
+104,BABY PICASSO,5,2025-09-11T12:59:46-07:00,features,very_positive,"Shopify is a crucial partner in the growth and success of ARTOMATIC TRILLIONAIRE, providing a seamless platform for luxury art commerce.","['precision in order processing', 'timely delivery of purchases', 'seamless payment tracking and management', 'security', 'flexibility', 'global infrastructure']",False
+105,aimekakpo,5,2025-09-09T19:49:49-07:00,ease-of-use,very_positive,The product significantly simplifies business management.,[],False
+106,Blueberrymuffins9475,1,2025-09-07T14:20:03-07:00,ease-of-use,very_negative,The login process is problematic due to a captcha issue.,['captcha'],True
+107,mitoaglass,1,2025-09-06T11:41:35-07:00,support,very_negative,The user is frustrated with the lack of support and is considering canceling their account.,[],True
+108,Chrissy0204,3,2025-09-02T12:32:45-07:00,pricing,very_negative,The reviewer feels that the billing and subscription model is confusing and misleading.,"['billing', 'subscriptions', 'third party app']",True
+109,Umer Rehman97,1,2025-08-28T04:43:21-07:00,features,very_negative,The recent updates have significantly slowed down the loading time for home page stats and analytics.,"['home page stats', 'analytics']",True
+110,Kingpinman77,5,2025-08-27T07:50:56-07:00,ease-of-use,very_positive,The user finds the app to be great.,[],False
+111,jhga123,3,2025-08-25T14:16:08-07:00,support,negative,The customer is frustrated with the lack of support from Shopify regarding account access issues.,"['verification code', 'billing']",True
+112,FGYBKQQ,1,2025-08-24T20:26:03-07:00,reliability,very_negative,The financial page and website visitor tracking are not functioning properly.,"['financial page', 'website visitor tracking']",True
+113,E. Alexsandra,1,2025-08-23T22:22:22-07:00,other,very_negative,The frequent updates for the app are frustrating and could lead to potential abandonment.,[],True
+114,rumvs2,1,2025-08-22T06:55:33-07:00,pricing,very_negative,"The reviewer feels that Shopify is a scam that fails to deliver on its promises, leading to financial loss.",[],True
+115,Bart Shrimpson,1,2025-08-20T23:04:16-07:00,features,very_negative,The user is frustrated with the inability to customize their shop or cancel their subscription.,[],True
+116,kyl56,1,2025-08-20T20:31:29-07:00,pricing,very_negative,The reviewer is frustrated with the pricing and its impact on their ability to pay bills.,[],True
+117,mattsi19,1,2025-08-20T20:03:09-07:00,reliability,very_negative,The app is consistently failing to load and has technical issues during sign-in.,[],True
+118,@anonymou$,1,2025-08-20T05:31:43-07:00,support,very_negative,The customer experienced unauthorized charges and poor customer service when disputing the issue.,"['payment', 'website']",True
+119,Psychobillycadillac77,1,2025-08-19T18:05:40-07:00,ease-of-use,very_negative,"The user had a frustrating experience with Shopify, citing issues with account management and payment processing.",[],True
+120,Joey L123,2,2025-08-19T06:45:48-07:00,support,very_negative,The reviewer had a frustrating experience with account termination and poor support response times.,"['billing process', 'website startup']",True
+121,Jmelton76,1,2025-08-17T18:45:02-07:00,reliability,very_negative,The user experiences frequent bugs and issues that severely impact their satisfaction.,"['permission bug', 'app blackout', 'bot traffic spiff']",True
+122,hinigc,1,2025-08-17T11:29:46-07:00,support,very_negative,The user is unable to sign in due to a malfunctioning captcha and ineffective tech support.,"['App Captcha', 'tech support']",True
+123,Malllllllllisimooooo,1,2025-08-16T12:03:28-07:00,pricing,very_negative,The customer is confused about where their money is going after a purchase.,[],True
+124,Cpt Terror,3,2025-08-15T03:04:27-07:00,features,negative,The new update fails to automatically update sales numbers.,['sales numbers'],True
+125,Mister Houdini,3,2025-08-14T15:51:01-07:00,features,negative,"The analytics feature frequently has issues with updates, affecting usability.","['analytics pages', 'data refresh', 'date range']",True
+126,jbarlowtxcreations,4,2025-08-14T15:26:20-07:00,features,negative,"The latest update has removed the ability to send invoices directly for payment, which is frustrating for the user.","['create an order', 'send it as an invoice', 'create a draft', 'collect payment']",True
+127,Davvv16,3,2025-08-13T19:21:48-07:00,ease-of-use,neutral,The app has a scrolling issue that causes frustration when navigating orders.,"['app scrolling', 'order navigation']",True
+128,ykthebisness,1,2025-08-13T01:48:03-07:00,pricing,very_negative,The customer feels they were scammed and lost money.,[],True
+129,DCottrell7,1,2025-08-11T15:41:17-07:00,support,very_negative,The reviewer is frustrated with the lack of customer service and technical issues.,[],True
+130,Trendz and Gemz,1,2025-08-11T03:54:17-07:00,features,very_negative,"Recent updates have severely impacted the functionality and usability of Shopify, leading to frustration and consideration of switching to another platform.","['live view map', 'mobile scanners', 'item number search', 'new search bar']",True
+131,D7i,1,2025-08-10T07:40:50-07:00,support,very_negative,The reviewer expresses strong dissatisfaction with Shopify's customer service.,[],True
+132,Oneandonlyonlyone,1,2025-08-08T15:52:42-07:00,ease-of-use,very_negative,"The user is experiencing significant issues with the app, leading to frustration and a decision to delete it.",[],True
+133,Puddles 19,5,2025-08-07T10:51:47-07:00,features,very_positive,The app has significantly contributed to the user's financial success.,[],False
+134,JORDANLADINES,5,2025-08-05T14:02:51-07:00,ease-of-use,very_positive,Shopify is easy to set up and affordable for starting a store.,"['easy to set up', 'cost']",False
+135,Root of Evil Apparel,5,2025-08-05T06:44:30-07:00,ease-of-use,very_positive,The platform effectively helped the user start their first business and generate income.,[],False
+136,Rugplug,1,2025-08-04T09:27:48-07:00,pricing,very_negative,The reviewer feels cheated by the high cost and lack of refund for the service.,['website'],True
+137,.noJ,3,2025-08-03T10:08:39-07:00,ease-of-use,negative,The user is frustrated with the verification process hindering their ability to complete necessary steps.,"['check mark verification', 'robot scam']",True
+138,Jose mirafuentes,1,2025-08-01T17:25:17-07:00,pricing,very_negative,The user experienced unauthorized charges and is considering legal action.,[],True
+139,Fan in L A,3,2025-07-30T13:15:53-07:00,reliability,neutral,"Frequent updates cause functionality issues, but the user finds the platform easy to use.",['finance button'],False
+140,Nickoli Wade,1,2025-07-30T06:12:44-07:00,support,very_negative,The reviewer is frustrated with the lack of customer service.,[],True
+141,frosty the doeman,5,2025-07-25T13:55:30-07:00,support,very_positive,The transition from SquareSpace to this platform provided significantly better support and mobile functionality.,"['mobile functionality', 'support', 'options']",False
+142,kingofclubs1234,3,2025-07-25T10:07:29-07:00,ease-of-use,negative,The collaborator request acceptance process is poorly designed and not user-friendly.,"['collaborator request page', 'accept request', 'assign a role']",True
+143,Mrs. Posty,1,2025-07-23T11:03:32-07:00,pricing,very_negative,The user experienced unexpected charges leading to cancellations.,[],True
+144,Urboigoku,1,2025-07-19T09:14:09-07:00,support,very_negative,The user feels that Shopify's support is inadequate and has led to their account termination without reason.,"['account termination', 'proof of sale']",True
+145,hoedomaggins,1,2025-07-18T06:31:39-07:00,support,very_negative,The customer is frustrated with the lack of timely support and being locked out of their account.,[],True
+146,Lanaatk,5,2025-07-13T13:55:42-07:00,other,very_positive,The reviewer highly recommends the product for business success.,[],False
+147,Bill13456742,1,2025-07-13T09:21:53-07:00,ease-of-use,very_negative,"The new update significantly complicates navigation and readability, making it frustrating for users.","['dark mode', 'light mode', 'menu navigation', 'chatty bot AIs']",True
+148,Mommarosa Blooms,2,2025-07-10T05:07:49-07:00,support,very_negative,"The user is frustrated with the lack of timely support and account verification, impacting their ability to ship orders.","['shipping labels', 'customer support']",True
+149,Ronny091,3,2025-07-08T18:50:31-07:00,ease-of-use,negative,The app has become laggy and inconvenient to use after an update.,[],True
+150,JJ71769,1,2025-07-07T18:46:24-07:00,support,very_negative,The customer feels wronged due to a lack of support and resolution regarding a stolen amount.,[],True
+151,Dimplesday 1,1,2025-07-07T05:20:32-07:00,ease-of-use,very_negative,"The product setup is complicated and lacks necessary components, leading to frustration.",['mobile app'],True
+152,EishaPeisha,1,2025-07-06T13:44:49-07:00,support,very_negative,"The reviewer is frustrated with constant issues and poor support from Square, leading to dissatisfaction and financial concerns.","['website setup', 'trial extension', 'premium pages']",True
+153,Kielstet,2,2025-07-01T10:00:03-07:00,ease-of-use,negative,The app is frustrating to use due to pauses and refresh issues.,"['balance separation', 'app performance']",True
+154,montrayvious,5,2025-06-29T07:04:58-07:00,ease-of-use,very_positive,The user finds the platform easy to use but is concerned about fund holding.,[],True
+155,MHW2104,3,2025-06-26T08:36:39-07:00,ease-of-use,neutral,The TikTok integrated app has great features but is frustrating to use on mobile.,"['TikTok integrated app', 'mobile version', 'updates']",True
+156,thamysorel,1,2025-06-26T06:08:00-07:00,reliability,very_negative,The reviewer feels scammed and expresses frustration over losing access to their funds and account.,"['account access', 'payout', 'appeal process']",True
+157,trans-latinx,2,2025-06-24T20:35:31-07:00,features,negative,The user is dissatisfied with the app's performance and the lack of a dark mode option.,['dark mode'],True
+158,Supremeverified,5,2025-06-24T11:36:00-07:00,other,very_positive,The seller expresses high satisfaction.,[],False
+159,Nakniko,1,2025-06-24T11:30:28-07:00,support,very_negative,The customer feels cheated due to a missing product and inadequate support from Shopify.,"['help and support', 'refund']",True
+160,Mil&no,1,2025-06-23T20:04:12-07:00,support,very_negative,The reviewer is frustrated with the lack of accountability and compensation regarding a tax document issue.,['1099'],True
+161,Mosey_d,1,2025-06-22T17:28:02-07:00,reliability,very_negative,The user is frustrated with being constantly logged out and missing a Home Screen widget.,['Home Screen widget'],True
+162,Adrienne Brooke,1,2025-06-21T23:54:16-07:00,support,very_negative,The customer is frustrated with the lack of effective support and has decided to close their account.,"['AI tool', 'authentication code']",True
+163,Niki Minaj DSP,1,2025-06-21T13:51:30-07:00,ease-of-use,very_negative,The app is difficult to use and has many bugs.,[],True
+164,Rountrees,5,2025-06-21T07:25:04-07:00,features,positive,The app is great but has a minor issue with capturing Shop Pay from mobile.,['Shop Pay'],False
+165,Natalie Hue21,5,2025-06-19T06:20:13-07:00,support,very_positive,The customer appreciates the quick and helpful support provided by Shopify.,['Chat/Ai Bot'],False
+166,Lauryn Dixon,1,2025-06-18T17:20:41-07:00,pricing,very_negative,"The user is frustrated that they cannot use their account after canceling their subscription, despite having paid for the month.",[],True
+167,Chisel Fizzle,1,2025-06-16T13:29:47-07:00,support,very_negative,The customer service is unresponsive and issues with double billing remain unresolved.,[],True
+168,".....,,??!?,",1,2025-06-16T12:42:05-07:00,features,very_negative,The recent update is negatively impacting customer satisfaction and could lead to loss of users.,[],True
+169,Rex’s dojo,5,2025-06-13T12:08:40-07:00,other,very_positive,The reviewer expresses strong satisfaction with the product.,[],False
+170,Nebula waves 333,5,2025-06-11T15:30:07-07:00,ease-of-use,very_positive,The user finds Shopify easy to navigate and appreciates the available templates and useful apps.,"['templates', 'apps']",False
+171,Slaladjessegoth,5,2025-06-09T02:47:57-07:00,ease-of-use,positive,The app is user-friendly but the recent update has awkward design elements.,"['user friendly', 'update', 'floating tabs', 'black background']",True
+172,Kemril,1,2025-06-06T19:00:03-07:00,support,very_negative,The customer is frustrated with being locked out of their account and the company's support.,[],True
+173,Sophiakeys,1,2025-06-05T16:11:44-07:00,features,very_negative,The AI update has caused significant issues with order visibility.,"['AI update', 'orders']",True
+174,TiffRog,3,2025-06-04T09:56:16-07:00,features,negative,The user is dissatisfied with the removal of the recently sold inventory feature.,['recently sold inventory feature'],True
+175,Spidersmans,2,2025-06-03T07:37:01-07:00,ease-of-use,negative,The new app layout is cumbersome and the sidekick AI is intrusive.,"['new layout', 'sidekick AI']",True
+176,lmbesch,1,2025-06-02T17:28:56-07:00,support,very_negative,"The reviewer is dissatisfied with the new app interface and the lack of customer support, leading to a desire to switch to another platform.","['new update', 'customer support', 'interface', 'payouts']",True
+177,BecauseWeNomad,2,2025-05-31T09:56:41-07:00,ease-of-use,negative,The product is difficult to set up and not intuitive to use.,['90 trial at $1 per month'],True
+178,BH~,2,2025-05-30T10:35:11-07:00,features,negative,The new Shopify app has good enhancements but is plagued by glitches and inefficiencies.,"['analytics screen', 'connection errors', 'reports menu']",True
+179,Lift Crash,1,2025-05-30T08:27:10-07:00,reliability,very_negative,"The platform suffers from frequent crashes and functionality issues, making it unreliable.","['server errors', 'theme not found', 'products disappearing']",True
+180,Isthusit2001,1,2025-05-26T16:30:36-07:00,ease-of-use,very_negative,The app is overly complicated and difficult to navigate.,[],True
+181,Lexie treys,1,2025-05-26T13:36:01-07:00,support,very_negative,The customer experienced significant frustration due to inadequate customer service and support options.,"['Shopify account access', 'virtual assistance', 'email support']",True
+182,Butch0610,3,2025-05-26T10:47:06-07:00,features,neutral,The user requests the return of the tag scan option for easier inventory searching.,['tag scan option'],False
+183,Tesla 销售部,4,2025-05-25T07:49:18-07:00,integration,negative,The user has been charged for six months without successfully linking their account.,[],True
+184,small ock,3,2025-05-24T01:08:42-07:00,ease-of-use,negative,"The navigation bar obstructs essential buttons, making account creation difficult.","['navigation bar', 'account creation']",True
+185,Faithfulsteps,4,2025-05-23T13:45:32-07:00,ease-of-use,positive,The user appreciates the app but desires better guidance for navigating its features.,[],False
+186,allyk789,1,2025-05-23T08:10:09-07:00,features,very_negative,"The new update is causing the app to crash when sending invoices, severely impacting business operations.","['sending invoices', 'app crash']",True
+187,Lsr;(214,5,2025-05-23T05:48:16-07:00,features,very_positive,The latest update is highly appreciated for making sidekick available on IOS.,['sidekick on IOS'],False
+188,HabibiArt,3,2025-05-23T03:11:38-07:00,features,neutral,The user acknowledges a fix but still sees issues with the reports page.,"['analytics', 'reports page', 'live view page']",False
+189,travels2,1,2025-05-22T20:21:10-07:00,ease-of-use,very_negative,"The redesign of the app has made it harder to navigate and read, negatively impacting usability.",[],True
+190,никнейммм,1,2025-05-21T17:47:07-07:00,ease-of-use,very_negative,The user finds the updated app extremely difficult to use and prefers the previous version.,[],True
+191,nunofyabuz,1,2025-05-21T06:28:57-07:00,support,very_negative,The customer is frustrated with the lack of accountability from Shopify regarding their order.,[],True
+192,PeePeeGrumpy,1,2025-05-20T15:40:54-07:00,support,very_negative,The support options for Shopify are ineffective and frustrating.,"['help', 'community options', 'AI BOT', 'support advisors']",True
+193,Whodey00000,1,2025-05-20T12:50:48-07:00,features,very_negative,The recent update complicates the user experience without addressing customer needs.,[],True
+194,damirante,2,2025-05-17T10:32:46-07:00,features,negative,The recent update has caused functionality issues on the iPhone.,"['live view', 'sessions']",True
+195,CurtisF25,1,2025-05-17T08:36:31-07:00,features,very_negative,The removal of the customer behavior UI has rendered the app unusable.,['customer behavior UI'],True
+196,MintChipkids,1,2025-05-16T18:02:11-07:00,support,very_negative,"The seller experienced a sudden and unexplained shutdown of their business site by Shopify, leading to frustration and dissatisfaction.",[],True
+197,kenjinsta123,1,2025-05-15T06:31:43-07:00,support,very_negative,The reviewer experienced multiple scams with no support or refund options available.,[],True
+198,rbcodes,2,2025-05-13T13:49:36-07:00,features,negative,"The app lacks dark mode support, making it difficult to use at night.",['dark mode'],True
+199,EKB 91369,1,2025-05-13T09:46:47-07:00,pricing,very_negative,The user is frustrated about being billed after canceling their service.,[],True
+200,Dakreations,1,2025-05-13T09:00:12-07:00,support,very_negative,The seller is frustrated with the lack of communication and support from the company.,[],True
+201,alukaslukkasss,2,2025-05-11T01:23:15-07:00,other,very_negative,The user is dissatisfied with the service.,[],True
+202,AMSHS2026,1,2025-05-10T01:03:50-07:00,pricing,very_negative,The reviewer accuses the company of unethical practices regarding unauthorized charges and poor refund policies.,[],True
+203,SaqibNoori999,4,2025-05-09T03:05:43-07:00,ease-of-use,positive,The seller appreciates the ease of starting with the method but is concerned about the lack of customers.,[],True
+204,NikNDom,1,2025-05-04T01:15:30-07:00,pricing,very_negative,The user is frustrated with being charged despite their shop being in test mode.,[],True
+205,Breese147,5,2025-05-03T18:42:28-07:00,features,positive,The user appreciates the ease of use but desires additional features for low inventory alerts without needing a computer.,"['low inventory alerts', 'workflow']",False
+206,Lil Skitz9,5,2025-04-29T22:03:39-07:00,ease-of-use,very_positive,"The app is easy to use and loved by the reviewer, despite high costs.",[],False
+207,Bagsaver,1,2025-04-26T06:41:58-07:00,support,very_negative,"The customer had a frustrating experience with Shopify's billing and support, leading to a transition to another service.","['billing', 'customer support', 'communication']",True
+208,NorthfieldNow,1,2025-04-26T05:13:47-07:00,ease-of-use,very_negative,The new photo upload process is frustrating and leads to potential cancellation of the service.,"['photo upload', 'listing order']",True
+209,Winner Moving upwards,5,2025-04-23T17:05:38-07:00,ease-of-use,very_positive,The reviewer is new to e-commerce but is eager to start using the platform.,[],False
+210,Redaflorida,1,2025-04-23T09:43:30-07:00,support,very_negative,The customer service is severely lacking and unable to resolve issues.,[],True
+211,Zoltani,2,2025-04-18T06:41:40-07:00,features,negative,The change from 'Sales' to 'Sessions' as the top metric is seen as a regression in usability.,"['Sales metric', 'Sessions metric', 'font size', 'admin page']",True
+212,Clouduka,5,2025-04-17T21:09:45-07:00,ease-of-use,very_positive,The reviewer expresses strong satisfaction with Shopify.,[],False
+213,urrhfhryhdhwwjsu,5,2025-04-16T06:47:17-07:00,pricing,positive,The product is considered good despite being expensive.,[],False
+214,Don’tplaywithmymoney,1,2025-04-14T04:38:55-07:00,support,very_negative,The reviewer is frustrated with the delayed payout and poor customer service from Shopify.,[],True
+215,Tommy-Texan,1,2025-04-13T04:24:06-07:00,support,very_negative,Shopify fails to protect users from unethical billing practices and offers inadequate support.,"['Minta app', 'Shopify subscription fee']",True
+216,DerekPetz69,1,2025-04-12T21:47:35-07:00,support,very_negative,The customer experienced significant issues with card information processing and received inadequate support.,[],True
+217,JESSIUCH,1,2025-04-11T21:04:46-07:00,support,very_negative,"The customer is frustrated with the lack of support and outdated features, leading them to consider switching to a competitor.","['live chat', 'ai bot', 'templates']",True
+218,addi3g,5,2025-04-10T01:13:37-07:00,support,very_positive,Zoey provided excellent assistance and was patient with inquiries.,[],False
+219,Wronginainteasy,5,2025-04-09T20:06:48-07:00,ease-of-use,very_positive,The seller finds the platform intuitive and user-friendly.,[],False
+220,Musk vs Zuckerberg,1,2025-04-08T18:09:40-07:00,support,very_negative,The user is frustrated with ongoing charges and lack of customer support.,"['subscription', 'helpline', 'chatbot']",True
+221,Ron Vanvoorhis,5,2025-04-08T14:03:05-07:00,ease-of-use,very_positive,Shopify provides a seamless experience for publishing and selling books quickly.,"['ease of navigating', 'ordering process']",False
+222,buy it sell it,1,2025-04-06T22:55:13-07:00,support,very_negative,"The bank verification process is frustrating and illogical, leading to dissatisfaction.",['bank verification process'],True
+223,Starlight Harris,1,2025-04-04T18:37:07-07:00,pricing,very_negative,The customer feels misled about the promotional offer and is dissatisfied with the charges.,[],True
+224,CynicXIII,2,2025-04-01T14:41:48-07:00,features,negative,The user is frustrated with the removal of features related to printing labels.,"['printing multiple labels', 'batch buy labels', 'generate pdf']",True
+225,Gaywad42069,1,2025-04-01T13:13:34-07:00,features,very_negative,The recent update has significantly degraded the user's experience.,[],True
+226,Waiting since ww1,1,2025-03-31T16:01:26-07:00,pricing,very_negative,The user feels trapped by billing policies and is frustrated with the inability to cancel their account due to financial constraints.,[],True
+227,Troigi,1,2025-03-31T08:34:57-07:00,ease-of-use,very_negative,The user is frustrated with the platform's inability to upload pictures easily.,['upload pictures'],True
+228,Iman ghadzi679,1,2025-03-29T19:37:55-07:00,ease-of-use,very_negative,The account deletion process is frustrating and problematic.,"['human verification', 'WiFi connection']",True
+229,Junito1676,5,2025-03-29T11:08:22-07:00,ease-of-use,very_positive,The reviewer believes Square is the best choice for starting an e-commerce business.,[],False
+230,FEDERICOWMJ,2,2025-03-24T15:36:50-07:00,ease-of-use,negative,The photo uploading process has become more cumbersome and time-consuming.,"['upload images', 'photo order']",True
+231,The bray experience,5,2025-03-23T21:14:38-07:00,features,very_positive,Shopify is incredibly helpful and life-changing.,[],False
+232,<Capt. CARTER>,1,2025-03-23T14:11:34-07:00,support,very_negative,The customer is frustrated with being charged for a service they never used and the lack of customer support.,[],True
+233,Roland Risse,5,2025-03-21T06:13:15-07:00,integration,very_positive,Shopify is beneficial for small businesses by helping track inventory and maximize profits.,"['tracking inventory', 'maximizing profits', 'easily integratable']",False
+234,Hehhddhhrhehdudbdty,1,2025-03-19T14:31:20-07:00,pricing,very_negative,The user is frustrated with the costs associated with switching companies and difficulties in managing their account.,"['shipping labels', 'card removal']",True
+235,Jokerdoh114,1,2025-03-16T08:28:59-07:00,ease-of-use,very_negative,"The app is frustrating and difficult to use, leading to significant delays in opening a store.","['app', 'fund transfer', 'internet app']",True
+236,Rastarebel1,1,2025-03-16T06:30:59-07:00,support,very_negative,The user feels neglected by the lack of customer support and is frustrated with ongoing charges without access to their site.,"['phone number', 'subscriptions', 'chat support']",True
+237,CodyAhr,1,2025-03-15T20:34:59-07:00,other,very_negative,The reviewer feels frustrated with the lack of competition in the market.,[],True
+238,jzz4444444444,1,2025-03-15T10:55:26-07:00,pricing,very_negative,The customer feels scammed due to unexpected charges after canceling their store.,[],True
+239,selah hopper,1,2025-03-13T22:09:04-07:00,support,very_negative,The reviewer feels that Shopify is untrustworthy and unresponsive regarding refunds.,[],True
+240,OliverSMass,1,2025-03-13T09:24:47-07:00,support,very_negative,The lack of effective communication and support options is frustrating for long-term users.,"['chat support', 'email support', 'phone support']",True
+241,ciccippio,1,2025-03-13T08:01:51-07:00,support,very_negative,The customer is frustrated with the lack of communication and support from the platform.,"['automated system', 'account access', 'cancellation process']",True
+242,BooJeff,1,2025-03-11T00:07:00-07:00,pricing,very_negative,The customer is frustrated about unauthorized charges and demands a refund.,[],True
+243,efi2nr,2,2025-03-10T09:50:02-07:00,support,negative,The lack of real customer service makes it difficult to resolve issues.,[],True
+244,dhvftznifvnj,2,2025-03-09T21:41:56-07:00,reliability,negative,The constant logging out issue makes the apps frustrating and nearly unusable.,"['Inbox', 'app']",True
+245,Wayne3063,1,2025-03-09T16:01:33-07:00,integration,very_negative,The user is frustrated with the incomplete PayPal setup process.,['PayPal integration'],True
+246,Big T Mossy,5,2025-03-07T07:05:25-07:00,support,very_positive,"The customer received exceptional support from Jason, resolving their issue quickly.",[],False
+247,Testiclops,3,2025-03-05T00:13:22-07:00,features,neutral,"The app is not displaying inventory data, causing confusion for staff.","['inventory data', 'app']",True
+248,renn12m,1,2025-03-04T03:54:25-07:00,support,very_negative,"The customer experienced significant issues with support, leading to frustration and dissatisfaction with the service.",[],True
+249,justmia911,5,2025-03-02T09:22:16-07:00,ease-of-use,very_positive,"The app simplifies tasks for users, making it highly appreciated.",[],False
+250,IIskuzII,1,2025-02-28T17:26:04-07:00,features,very_negative,The mobile app's missing 'Send Invoice' feature is causing significant inconvenience.,"['Send Invoice', 'mobile app', 'desktop']",True
+251,86Token,1,2025-02-25T23:59:27-07:00,support,very_negative,The customer is frustrated with the lack of effective support and is considering leaving due to unresolved issues.,"['subscription', 'live chat', 'email confirmation']",True
+252,Shop Tech Accessories,5,2025-02-25T13:29:33-07:00,other,very_negative,The reviewer warns against entering payment information due to security concerns.,[],True
+253,Gettitjav,5,2025-02-25T07:08:26-07:00,support,very_positive,The support provided was exceptionally helpful.,[],False
+254,Novahunter007,1,2025-02-25T03:39:21-07:00,pricing,very_negative,The user is frustrated because they cannot select a plan.,[],True
+255,Darko_17,1,2025-02-24T18:31:43-07:00,pricing,very_negative,"The user experienced unauthorized charges after canceling their account, indicating a serious issue with billing practices.",[],True
+256,Hellcat43,1,2025-02-24T10:22:14-07:00,support,very_negative,The reviewer is frustrated with the lack of customer service.,[],True
+257,ivychristine04,2,2025-02-23T13:50:46-07:00,features,very_negative,The inability to assign box sizes for shipping calculations is a major drawback.,"['shipping calculations', 'box sizes', 'customer service']",True
+258,dequaries,1,2025-02-23T13:27:04-07:00,other,very_negative,The reviewer criticizes Shopify for banning Kanye West and labels the company as racist.,[],True
+259,"…,,.,,,,",5,2025-02-23T00:16:05-07:00,other,very_positive,The reviewer expresses strong satisfaction.,[],False
+260,Kingslar,1,2025-02-21T09:13:10-07:00,support,very_negative,The seller experienced significant issues with withdrawing funds and felt unsupported after their first sale.,[],True
+261,DouglasGottlieb,2,2025-02-21T05:10:59-07:00,support,negative,The reviewer is dissatisfied with the lack of support for Apple Shortcuts.,"['Apple Shortcuts', 'backend metadata']",True
+262,kaiiioiikkk,3,2025-02-19T04:37:52-07:00,pricing,neutral,"The app was good overall, but issues with subscription cancellation and continued charges affected the experience.",[],True
+263,lul hicks,2,2025-02-18T13:16:21-07:00,support,negative,The customer is dissatisfied with the customer service.,[],True
+264,Conypretty487,1,2025-02-18T06:43:31-07:00,pricing,very_negative,The user feels misled about the pricing structure and is frustrated with customer support.,[],True
+265,Zakobe ryan reynolds williams,4,2025-02-17T14:17:07-07:00,support,very_negative,The automated system and lack of support led to account termination and loss of funds.,"['Acceptable Use Policy', 'automated system']",True
+266,Nickname37292$2,1,2025-02-14T03:02:41-07:00,pricing,very_negative,The customer is frustrated about being charged for a subscription they already cancelled.,[],True
+267,Masia Group,5,2025-02-13T18:38:45-07:00,integration,very_positive,The program is excellent.,[],False
+268,Rico is on it,1,2025-02-12T18:43:33-07:00,features,very_negative,"The app has become overly restrictive with rules and regulations, undermining the purpose of having a personal online store.",[],True
+269,BeeSierra,1,2025-02-12T03:44:17-07:00,features,very_negative,The user is frustrated with the lack of essential features in the app.,"['tags', 'alphabetize', 'discounts on shipping']",True
+270,Anonymouswhitegirl,1,2025-02-11T12:01:16-07:00,other,very_negative,The reviewer is boycotting the app due to concerns over inappropriate content being sold.,[],True
+271,JSS E&H,5,2025-02-10T14:28:41-07:00,ease-of-use,very_positive,The user had a fantastic experience using the app to build their store.,['finding apps'],False
+272,Niktt1230,1,2025-02-07T08:52:11-07:00,support,very_negative,The customer is frustrated with the lack of effective support and resolution for their issue.,[],True
+273,18191@1@,1,2025-02-05T17:07:37-07:00,pricing,very_negative,The user feels that the app is stealing money from their bank account.,[],True
+274,Sunrisesurferpb,5,2025-02-05T14:11:59-07:00,ease-of-use,very_positive,The setup and integrations are very easy to use.,[],False
+275,Don’tdoIT!!!!!!,1,2025-02-04T14:23:45-07:00,support,very_negative,The customer is frustrated with the lack of support and communication regarding their held funds.,[],True
+276,cv6htmp,1,2025-02-03T12:07:51-07:00,ease-of-use,very_negative,The user is frustrated with the difficulty of deleting their account.,[],True
+277,oc.Danielle,1,2025-01-31T22:33:17-07:00,support,very_negative,"The customer experienced significant issues with account cancellation and customer service, leading to a loss of trust.",[],True
+278,Strickfaden a,1,2025-01-28T08:27:03-07:00,support,very_negative,The customer is frustrated with the lack of direct support and ineffective chat bots.,['chat bots'],True
+279,Um mm,1,2025-01-27T07:19:50-07:00,support,very_negative,The customer is frustrated with the lack of effective support and communication.,[],True
+280,cd1031,2,2025-01-25T15:53:39-07:00,ease-of-use,negative,The app's frequent changes to metric viewing make it less user-friendly.,"['metrics', 'sessions', 'bounce rate', 'added to cart', 'analytics']",True
+281,us2fever,1,2025-01-24T01:16:54-07:00,ease-of-use,very_negative,The user is unable to access the app and is frustrated with the experience.,['create your own store page'],True
+282,I luv these birds,1,2025-01-23T11:40:52-07:00,support,very_negative,The customer is frustrated with the lack of timely technical support after spending a significant amount on web design.,"['premium upgrade', 'technical support']",True
+283,delete this 777,1,2025-01-23T02:43:14-07:00,pricing,very_negative,The seller is frustrated with increased monthly fees and lack of notifications for sales.,"['monthly fees', 'notifications']",True
+284,@Emeralds12-9,5,2025-01-22T11:55:57-07:00,ease-of-use,very_positive,The platform is transformative and simplifies the process of trade and commerce through technology.,"['Dropshipping', 'E-Commerce', 'Shopify']",False
+285,BrettK84,1,2025-01-22T06:57:41-07:00,other,very_negative,"The user feels that Shopify compromised their personal information, leading to harassment through spam calls and texts.",[],True
+286,BusyBee43a09,2,2025-01-20T10:42:30-07:00,features,negative,The user is dissatisfied with the ads on the home screen and desires more useful analytics.,"['ads', 'home screen', 'analytics']",True
+287,ColleenCC14,1,2025-01-20T06:44:48-07:00,ease-of-use,very_negative,Shopify is difficult to use across multiple devices.,"['sign in', 'multiple devices']",True
+288,just jhia,5,2025-01-19T10:15:06-07:00,ease-of-use,very_positive,Shopify provides a seamless experience for launching a business.,[],False
+289,tocool1356,1,2025-01-18T05:38:24-07:00,support,very_negative,The seller experienced a sudden store shutdown and financial loss without warning from Shopify.,[],True
+290,Janellebbb,3,2025-01-17T13:42:18-07:00,features,negative,The analytics feature is unreliable and inconsistent across devices.,"['analytics feature', 'calendar', 'metrics']",True
+291,Jen1537,1,2025-01-16T16:27:28-07:00,support,very_negative,The user is frustrated with the lack of communication and resolution regarding their payouts being on hold.,[],True
+292,dfzzdgj,2,2025-01-15T11:05:36-07:00,support,very_negative,The user experienced repeated issues with account shutdowns and unresponsive support.,[],True
+293,voidxdancer,1,2025-01-14T21:36:27-07:00,reliability,very_negative,The seller is frustrated with delayed payouts and is considering switching back to a previous platform.,['24 hour payouts'],True
+294,Merritt Gregory,1,2025-01-11T10:57:35-07:00,support,very_negative,The user is frustrated with the difficulty of canceling their subscription and the lack of effective customer support.,['help center'],True
+295,engineer3003,2,2025-01-11T10:30:36-07:00,ease-of-use,negative,The UI issues in Marketplace Connect prevent users from saving edits effectively.,"['Marketplace Connect', 'save button']",True
+296,elrockymexicano,1,2025-01-11T08:04:41-07:00,pricing,very_negative,The review highlights difficulties in canceling the subscription and high fees associated with not using Shopify.,[],True
+297,SKovach1909,3,2025-01-10T05:25:23-07:00,features,neutral,"The notification settings have a glitch that prevents the icon from clearing, despite all notifications being addressed.","['notification icon', 'paid', 'fulfilled', 'archived']",False
+298,el_cuh_0968,1,2025-01-06T17:53:38-07:00,features,very_negative,The user is frustrated with the inability to delete their card from the app.,"['delete card', 'remove card']",True
+299,Alex guapoo,5,2025-01-06T06:57:12-07:00,ease-of-use,very_positive,The user finds Shopify practical and easy to use for managing their online business.,[],False
+300,alc1013,1,2025-01-04T06:06:48-07:00,features,very_negative,The reporting features do not provide complete or accurate data.,['reporting mechanisms'],True
+301,lukeweirich,5,2025-01-02T16:20:02-07:00,ease-of-use,very_positive,The user finds Shopify to be an excellent and easy-to-use business app.,[],False
+302,AdomHayley#1,1,2025-01-01T16:56:27-07:00,support,very_negative,Shopify has restrictive policies and poor support for new users.,[],True
+303,Camus lupus,5,2024-12-30T05:12:00-07:00,support,very_positive,The seller found the information provided to be very helpful.,[],False
+304,stokessk,1,2024-12-29T11:05:04-07:00,support,very_negative,The help center is perceived as rude and untrustworthy.,[],True
+305,Standing onBusiness,1,2024-12-29T09:42:30-07:00,support,very_negative,The customer service is consistently poor and a major issue with the app.,[],True
+306,Maï kanome,1,2024-12-29T04:16:17-07:00,pricing,very_negative,The customer experienced an unauthorized charge and is unhappy with the lack of refund.,[],True
+307,LuhBreezyyy,2,2024-12-20T18:06:47-07:00,pricing,negative,The user is frustrated about being charged after deleting their accounts and subscriptions.,[],True
+308,Adriana Alava,5,2024-12-20T12:00:10-07:00,support,very_positive,The seller finds the platform to have excellent customer service.,[],False
+309,R………………..,1,2024-12-12T08:44:48-07:00,ease-of-use,very_negative,The account deletion process is overly complicated.,[],True
+310,Chase_Henry,5,2024-12-11T06:28:02-07:00,pricing,very_positive,The platform offers an affordable solution for entrepreneurs to start their e-commerce business without significant financial burden.,"['low cost', 'print on demand']",False
+311,DezziHG,5,2024-12-10T07:41:59-07:00,ease-of-use,very_positive,The platform is user-friendly and meets all the user's needs perfectly.,[],False
+312,MS7819MS,1,2024-12-09T13:53:43-07:00,features,very_negative,The new update has severely impacted the reporting functionality.,"['reporting', 'daily numbers', 'app update']",True
+313,Sk9pd441,5,2024-12-07T05:39:18-07:00,other,very_positive,The seller takes pride in the quality of their coffee beans.,[],False
+314,Onenutwonder555,1,2024-12-06T16:58:18-07:00,pricing,very_negative,"The user lost all their work after changing their monthly plan, which they find unacceptable.",[],True
+315,Halofit42,5,2024-12-03T14:34:50-07:00,ease-of-use,very_positive,The platform is easy to set up and enjoyable to use.,[],False
+316,Day of Action and a,1,2024-12-03T05:59:03-07:00,pricing,very_negative,The user is frustrated about unexpected charges from the app.,[],True
+317,Sara Oz,5,2024-12-02T09:29:47-07:00,reliability,very_positive,The app is solid and provides a reliable experience similar to the web version.,[],False
+318,Betsie29,5,2024-12-01T20:17:24-07:00,features,very_positive,The review highlights the usefulness of the information provided for sales tracking.,[],False
+319,RyoshiKira,1,2024-11-26T10:47:54-07:00,other,very_negative,The user experienced a significant privacy issue leading to spam calls after using the service.,[],True
+320,fahrvergnuugen,5,2024-11-23T07:41:28-07:00,features,very_positive,"The app is well-designed and offers useful features, but the user requests additional inventory management functionalities.","['adjust inventory quantity by a specific amount', 'adjust columns on the inventory overview']",False
+321,Desz4,1,2024-11-22T18:01:35-07:00,pricing,very_negative,"The app charged the user twice after they deactivated their store, indicating serious billing issues.",[],True
+322,Another owner of the store,1,2024-11-18T15:58:46-07:00,ease-of-use,very_negative,The user is frustrated with the inability to log in using Google.,"['login', 'Google']",True
+323,Genuinelyj.a.,5,2024-11-17T13:29:43-07:00,support,positive,The user is experiencing a technical issue but appreciates the service.,[],False
+324,39Deep,1,2024-11-14T10:24:18-07:00,reliability,very_negative,The app is experiencing persistent issues with double notifications.,[],True
+325,Muchas bendiciones!!,5,2024-11-12T06:45:38-07:00,support,very_positive,The customer is highly impressed with the programming and editing system and the support provided.,"['programming system', 'editing system', 'support']",False
+326,wingy from Delray Beach,5,2024-11-09T22:34:16-07:00,other,positive,Carline is testing apps on their phone and has had a positive experience despite a hacking issue.,[],False
+327,vin can,1,2024-11-09T19:13:07-07:00,ease-of-use,very_negative,The user is unable to log in due to a disabled button after entering their email.,['log in process'],True
+328,Paulc191919,1,2024-11-07T10:31:49-07:00,support,very_negative,The customer is frustrated with the lack of accessible support options.,"['phone support', 'live chat', 'email support']",True
+329,missV201629,5,2024-11-04T10:49:52-07:00,ease-of-use,very_positive,The app is highly regarded for its user-friendly interface.,[],False
+330,lpossome,1,2024-11-02T07:16:22-07:00,pricing,very_negative,The user feels they are being unfairly charged for a service they did not use.,[],True
+331,Spring2212,1,2024-11-01T12:31:32-07:00,support,very_negative,The customer experienced extremely poor and rude customer service.,[],True
+332,Communiyconnections,1,2024-10-30T16:05:12-07:00,support,very_negative,"The user's payout is on hold, causing frustration after starting their business.",[],True
+333,Clif On iTunes,1,2024-10-26T13:46:07-07:00,reliability,very_negative,The latest version of the app is crashing on all devices.,[],True
+334,misslizsc16,1,2024-10-14T03:28:33-07:00,reliability,very_negative,"The app frequently logs the user out, causing frustration.",[],True
+335,its_reaps,1,2024-10-13T18:52:06-07:00,pricing,very_negative,"The user was charged without any service or trial, leading to frustration.",[],True
+336,jgreene2765,2,2024-10-11T04:55:50-07:00,features,negative,"The photo upload feature is unreliable, causing frustration for the user.","['photo upload', 'adding products']",True
+337,chad!!!!!!,1,2024-10-10T12:44:09-07:00,ease-of-use,very_negative,The app's recent updates have introduced significant usability issues and frustrations.,"['multi-tender payments', 'printing labels', 'location display limit']",True
+338,M. Mirza ali,1,2024-10-10T01:01:49-07:00,pricing,very_negative,The reviewer feels scammed due to misleading pricing and poor product quality.,[],True
+339,Maqami,1,2024-10-09T18:48:38-07:00,support,very_negative,The customer is frustrated with the delay in receiving their reserve funds and feels misled by the support provided.,[],True
+340,rmiller9011,1,2024-10-06T23:18:17-07:00,ease-of-use,very_negative,The app is dysfunctional and fails to load the site editor.,[],True
+341,lostuti,1,2024-10-04T04:32:29-07:00,support,very_negative,The user is frustrated with the lack of support in resolving their issue for over a month.,[],True
+342,ShadowSharkyt,1,2024-10-04T03:08:04-07:00,pricing,very_negative,The customer experienced an issue with being charged after canceling their subscription.,[],True
+343,millions66,1,2024-10-01T04:28:44-07:00,pricing,very_negative,The seller feels that the app is untrustworthy and has taken their money without providing service.,[],True
+344,Victra Sucks,5,2024-09-29T09:18:07-07:00,features,very_positive,Shopify is highly regarded as the best commerce platform.,[],False
+345,skgoffroad,1,2024-09-24T10:20:40-07:00,reliability,very_negative,"The recent update has caused frequent login issues, making the app unreliable.","['login', 'widgets']",True
+346,Johnny_khan243,1,2024-09-23T08:10:16-07:00,pricing,very_negative,The customer is dissatisfied with the pricing and demands a refund.,[],True
+347,Kyle's One Fan,2,2024-09-18T19:54:48-07:00,reliability,negative,The latest update causes frequent logouts from the app.,[],True
+348,Poseidon N,5,2024-09-18T15:25:24-07:00,ease-of-use,very_positive,The app is highly regarded for its user-friendly experience.,[],False
+349,Sarmo888,5,2024-09-17T04:42:22-07:00,ease-of-use,very_positive,The platform is user-friendly and effective.,[],False
+350,HoS2019,1,2024-09-15T18:25:49-07:00,features,very_negative,The app is significantly inferior to the web admin panel and lacks essential functions.,"['reserve an item when creating a draft order', 'issuing a refund', 'orders not showing up']",True
+351,evelynnmade,1,2024-09-14T15:29:36-07:00,support,very_negative,The user is frustrated with the service not working and inadequate customer support.,[],True
+352,mazurek02,5,2024-09-14T10:54:13-07:00,ease-of-use,very_positive,The reviewer finds it a great and easy way to start a business.,[],False
+353,gigimarie123456,2,2024-09-13T11:14:33-07:00,reliability,negative,The user is frustrated with frequent logouts from their Shopify account.,[],True
+354,Dolls2024,5,2024-09-11T16:05:36-07:00,ease-of-use,very_positive,The seller is enjoying the process of building their store.,[],False
+355,Jessica5260,5,2024-09-11T10:05:39-07:00,ease-of-use,very_positive,The Gooten app is easy to use and integrates well with Shopify.,[],False
+356,Zbbgzlesburge,4,2024-09-11T02:12:37-07:00,other,neutral,The review is simply a repetition of the seller's name.,[],False
+357,adof klitler,1,2024-09-08T10:40:41-07:00,pricing,very_negative,The customer is frustrated about being charged after deleting the app.,[],True
+358,User9876426,1,2024-09-03T12:01:47-07:00,support,very_negative,The customer is frustrated with the inability to cancel their subscription and poor customer service.,[],True
+359,JaayCoop,5,2024-09-02T06:58:34-07:00,ease-of-use,very_positive,The product is very helpful for new businesses.,[],False
+360,JJ-LkPasadena,2,2024-08-31T10:18:55-07:00,features,negative,The inventory scanning feature is inaccurate and has become less user-friendly.,"['inventory scanning', 'web app', 'Review', 'Apply']",True
+361,Lbbgaaj,2,2024-08-30T17:38:13-07:00,pricing,negative,The user is frustrated with recurring charges despite canceling their subscription.,[],True
+362,Jav6494,2,2024-08-29T11:42:35-07:00,support,negative,The support is difficult to access and payment processing issues are concerning.,"['support', 'account setup', 'payment holding']",True
+363,Dlwstne1,1,2024-08-27T17:29:50-07:00,support,very_negative,The customer is frustrated with the lack of support and resolution from Shopify after their website was locked.,[],True
+364,RT Electronics,1,2024-08-27T17:26:17-07:00,support,very_negative,"The promotional offer was not fulfilled due to technical issues, leading to a frustrating experience.","['payouts', 'promotional period']",True
+365,Ahrhvcgy,1,2024-08-24T15:15:39-07:00,pricing,very_negative,The user is frustrated with the inability to make a purchase on Shopify.,['start free trial'],True
+366,LilacAxtell,1,2024-08-21T22:13:13-07:00,pricing,very_negative,The card reader has serious issues with charging excessive fees and card removal.,[],True
+367,Nonexistent Shopify staff,1,2024-08-20T18:59:49-07:00,support,very_negative,The lack of effective customer support led to frustration and unresolved issues regarding fraud.,[],True
+368,Po da pandaa,1,2024-08-20T14:58:56-07:00,ease-of-use,very_negative,The seller is frustrated with the setup process being unresponsive.,[],True
+369,STEALING MONEY$$$,1,2024-08-19T09:46:23-07:00,support,very_negative,The user is unable to access their account due to unauthorized use of their email and is frustrated with the lack of support.,"['help chat', 'login']",True
+370,MinaR22,1,2024-08-19T07:33:05-07:00,pricing,very_negative,The service is considered too expensive and lacking in valuable features.,[],True
+371,Genuinely Disgusted,1,2024-08-15T09:12:32-07:00,support,very_negative,The lack of customer support and non-functional interface leads to a poor experience.,"['interface', 'customer service']",True
+372,Coconut water123,5,2024-08-14T15:48:02-07:00,other,positive,The reviewer is inquiring about the age requirement to start a Shopify account.,[],False
+373,KHallman,1,2024-08-14T10:09:52-07:00,pricing,very_negative,The user is frustrated with unauthorized charges after deactivating their account.,[],True
+374,Jonny Candle,1,2024-08-11T12:30:30-07:00,support,very_negative,"Shopify's customer support has significantly deteriorated post-Covid, leading to frustration and dissatisfaction.",[],True
+375,gaisgh736,1,2024-08-08T19:28:50-07:00,features,very_negative,The lack of Arabic language support in the application and website is a significant issue for the user.,['Arabic language support'],True
+376,Joe Then,4,2024-08-07T06:14:47-07:00,features,positive,The user is requesting a Dark Mode feature for better eye comfort.,['Dark Mode'],False
+377,Pidget19,1,2024-08-03T18:38:36-07:00,features,very_negative,The reviewer is frustrated with the spam control features of Shopify.,['Google Captcha'],True
+378,MtnLv432,1,2024-08-03T14:46:03-07:00,support,very_negative,"The platform is overly complicated with hidden fees and poor customer service, leading to significant frustration.","['customization', 'customer service', 'extra apps', 'logo enlargement', 'image cropping']",True
+379,Leftear,1,2024-08-03T09:50:02-07:00,support,very_negative,The customer feels abandoned by Shopify's support as their business grows.,"['chat help', 'customer support email', 'PLUS']",True
+380,Mke EMD,1,2024-08-03T03:19:54-07:00,ease-of-use,very_negative,"The app freezes when trying to access the products tab, indicating a significant usability issue.","['products tab', 'app freezing']",True
+381,Country Club Cowgirl,1,2024-08-01T07:34:06-07:00,support,very_negative,The customer feels that Shopify has taken their money and has received no support in resolving the issue.,[],True
+382,Uebbhshsjsjbsbsvv,1,2024-07-31T09:16:37-07:00,support,very_negative,The seller is frustrated with the lack of resolution regarding withheld funds after 15 days of communication.,[],True
+383,Cam.87,1,2024-07-31T08:17:50-07:00,support,very_negative,The customer service is inadequate and frustrating for business owners.,"['chat', 'email']",True
+384,SUV's in h by d,2,2024-07-30T18:49:39-07:00,pricing,very_negative,"The user experienced unauthorized charges after deleting the app, leading to a loss of trust.",[],True
+385,9292aa,1,2024-07-30T15:09:09-07:00,support,very_negative,The user is frustrated with the payment method setup process.,[],True
+386,Cafe’ cats,1,2024-07-30T12:05:56-07:00,support,very_negative,The seller is frustrated with the lack of payment and poor customer support from Shopify.,"['payout', 'customer support']",True
+387,Nbatyson1,1,2024-07-30T09:06:19-07:00,ease-of-use,very_negative,The user is frustrated because they cannot create an account.,[],True
+388,dhph89,2,2024-07-30T03:48:08-07:00,ease-of-use,negative,The app makes it very difficult to cancel a subscription.,"['cancel your plan', 'subscription']",True
+389,dhm_atl_875,1,2024-07-28T10:02:59-07:00,support,very_negative,The customer is frustrated with the lack of support options after changing their phone number.,"['phone support', 'live support']",True
+390,goncaydogmus,1,2024-07-26T05:27:46-07:00,pricing,very_negative,The user experienced unauthorized charges to their account.,[],True
+391,hzhdjanbwnnsbnsejsjss,5,2024-07-22T23:37:26-07:00,support,very_positive,The customer support is highly effective and contributes to a solid overall experience.,"['customer support', 'tools']",False
+392,esacare,5,2024-07-21T08:21:49-07:00,support,very_positive,The reviewer is highly satisfied with the service and program provided.,[],False
+393,ℱℴ𝓉𝓈𝓈,1,2024-07-20T09:05:08-07:00,reliability,very_negative,The app is experiencing glitches during payment setup.,['payment method'],True
+394,Beau dad r cuz,3,2024-07-18T14:39:07-07:00,ease-of-use,negative,The user is frustrated with the ad blocker notification preventing them from starting their business.,['ad blocker notification'],True
+395,amnesia-kei,2,2024-07-18T05:20:36-07:00,features,negative,"The app's deep linking functionality is broken, causing inconvenience for users.","['deep links', 'app navigation']",True
+396,rainkid2,1,2024-07-16T19:20:37-07:00,features,very_negative,The absence of visible draft order quantities is a critical issue that hinders usability.,['draft orders quantity'],True
+397,ckhee90,1,2024-07-13T14:56:19-07:00,ease-of-use,very_negative,"The app has become very slow and laggy after the recent update, making it inconvenient to use.",[],True
+398,Dasa1044,1,2024-07-12T01:57:00-07:00,reliability,very_negative,"The app fails to function properly after updates, affecting daily sales visibility.","['preview complication', 'daily sales amount']",True
+399,Raz9900,4,2024-07-10T15:21:00-07:00,other,positive,The seller is satisfied with the service.,[],False
+400,writea917,1,2024-07-09T22:00:40-07:00,support,very_negative,The user is frustrated with the inability to cancel their subscription and delete the app.,"['subscription cancellation', 'app deletion']",True
+401,Shopify Notifications,4,2024-07-08T20:09:35-07:00,features,positive,The user appreciates the app's functionality but is frustrated by a persistent notification issue.,"['mobile functionality', 'notification bubble']",True
+402,Deashnn,5,2024-07-05T19:19:52-07:00,ease-of-use,very_positive,The app is effective for the user's online business.,[],False
+403,Recommendation .,1,2024-07-03T03:51:31-07:00,support,very_negative,The reviewer is highly dissatisfied with the customer support and overall quality of the app.,[],True
+404,Noah obe,1,2024-06-30T22:54:36-07:00,other,very_negative,The reviewer finds the service to be extremely unsatisfactory.,[],True
+405,DirectDropz,5,2024-06-29T04:58:36-07:00,ease-of-use,very_positive,The prompts are well-organized and easy to navigate.,[],False
+406,DL706,3,2024-06-28T08:04:52-07:00,features,neutral,The return label feature of the app is not functioning properly.,['return label feature'],False
+407,Mr.reckerr,1,2024-06-27T03:58:05-07:00,reliability,very_negative,"The app consistently fails to load, leading to frustration and a decision to stop using it.",[],True
+408,QueenStacieD,2,2024-06-26T18:31:36-07:00,support,very_negative,"The account recovery process is overly complicated and stressful, leading to significant business losses.","['account recovery', 'support']",True
+409,Ms.alinaify,5,2024-06-25T17:04:27-07:00,integration,very_positive,The integration between Shopify and Selfnamed enhances business operations with ease.,"['easy to use', 'integration with other apps', 'dropshipping', 'no setup fee']",False
+410,1234567coinmaster,1,2024-06-24T14:31:10-07:00,support,very_negative,The user is frustrated with unexpected charges and ineffective customer support.,"['customer support', 'account management']",True
+411,wit ah dah,1,2024-06-22T15:14:04-07:00,pricing,very_negative,The subscription pricing is misleading and caused significant financial strain.,"['free trial', 'subscription tiers']",True
+412,Lourdes v,1,2024-06-21T11:59:12-07:00,support,very_negative,The seller feels unsupported by Shopify in handling chargebacks and enforcing their return policy.,[],True
+413,Roger_683626,1,2024-06-20T22:49:42-07:00,features,very_negative,The return label creation feature on the app is broken after an update.,['return label creation'],True
+414,aurias26,3,2024-06-20T16:10:05-07:00,features,negative,The recent update complicates adding product variants and causes issues with product options.,"['metafields', 'variants', 'product options']",True
+415,Bruhool,1,2024-06-20T09:53:01-07:00,features,very_negative,"The recent update has severely impacted the image uploading process, making it much more difficult for the user.","['image uploading', 'upload time', 'manual approval']",True
+416,Creative Art Education,5,2024-06-20T04:34:56-07:00,ease-of-use,very_positive,"The platform is user-friendly and customizable, making it ideal for all users.","['customization', 'analytics']",False
+417,Amananadanow,2,2024-06-18T14:46:45-07:00,features,negative,The notification and reply feature has a usability issue that hinders communication.,"['notifications', 'reply', 'order page']",True
+418,Superleodood,1,2024-06-15T00:00:29-07:00,support,very_negative,The lack of accessible human technical support is a major frustration.,"['chatbot', 'login']",True
+419,Rate this 1 star!!,1,2024-06-14T14:37:38-07:00,reliability,very_negative,The seller experiences frequent access issues and freezing problems.,[],True
+420,BradyS515,2,2024-06-12T21:32:40-07:00,features,negative,The removal of the live page views feature has frustrated the user.,['live page views'],True
+421,justlookingout4u,1,2024-06-11T14:14:14-07:00,support,very_negative,The user experienced issues with canceling their account due to glitches in the system.,"['cancel store', 'monthly payment', 'glitching']",True
+422,Jointhehunt108,4,2024-06-09T07:35:55-07:00,reliability,positive,The user appreciates Shopify but is frustrated with recurring bugs after updates.,"['app', 'support']",True
+423,Lilly billyyyy,2,2024-06-08T13:22:23-07:00,pricing,negative,The user is frustrated with the app's trial period and payment requirements after inactivity.,[],True
+424,DyslexicAjnin,1,2024-06-06T11:25:35-07:00,features,very_negative,Recent updates to the app have significantly degraded the user experience.,"['grid on camera', 'multiple photo uploads']",True
+425,mark_kitty,1,2024-06-06T03:11:59-07:00,pricing,very_negative,The user is frustrated with unexpected high billing after a trial period.,[],True
+426,Eugene 6161,3,2024-06-05T20:07:47-07:00,features,negative,The user is frustrated with the lack of improvement in the instant daily revenue display feature.,['instant daily revenue display'],True
+427,Rickywhite_2000,1,2024-06-05T11:40:55-07:00,reliability,very_negative,"The website and app frequently experience downtime, hindering work productivity.",[],True
+428,JayDissatisfied,1,2024-06-05T08:00:22-07:00,support,very_negative,The customer is frustrated with the lack of accessible customer support from Shopify.,[],True
+429,ScottKamm,1,2024-06-04T11:04:18-07:00,support,very_negative,"The reviewer faced severe issues with customer support and account management, leading to frustration and a potential switch to a competitor.","['store closure', 'document verification', 'tracking orders']",True
+430,ASCESCO,1,2024-06-03T01:38:55-07:00,features,very_negative,The user has not made any sales in two months of using the app.,[],True
+431,Daniel7757,1,2024-06-02T01:51:41-07:00,support,very_negative,The user experienced significant issues logging in on other devices due to verification problems.,"['Google login', 'phone verification']",True
+432,TenshiStore,1,2024-05-31T07:38:42-07:00,support,very_negative,The user faced issues with account deactivation and poor customer support.,"['contact support', 'Virtual Assistant', 'passkey']",True
+433,MiltownJo,5,2024-05-30T18:00:00-07:00,ease-of-use,very_positive,The setup process is straightforward and integrates well with apps.,"['easy to set up', 'connect your site to apps']",False
+434,amberay10,1,2024-05-29T17:06:36-07:00,other,very_negative,The seller feels censored due to their conservative views and plans to leave the platform.,"['shop app', 'loan']",True
+435,TheeOne1600,3,2024-05-29T07:03:30-07:00,support,negative,The app does not adequately support sellers during disputes.,[],True
+436,tywalkerrr,5,2024-05-27T16:39:37-07:00,ease-of-use,very_positive,The user found building their site easy and enjoyable.,"['tools for content', 'marketing tools']",False
+437,Dons9896,1,2024-05-25T06:57:14-07:00,other,very_negative,The user is disappointed due to age restrictions preventing them from using the service.,[],True
+438,Jgrox24,5,2024-05-25T06:07:46-07:00,ease-of-use,very_positive,The app has a learning curve but is worth it for business growth.,[],False
+439,MichaelJo7,5,2024-05-24T20:26:30-07:00,ease-of-use,very_positive,Shopify is an easy-to-use platform that supports new businesses in starting their drop-shipping journey.,[],False
+440,Skye.smart,1,2024-05-24T17:25:19-07:00,support,very_negative,The user is frustrated with unauthorized charges and app functionality issues.,[],True
+441,un-lucki,1,2024-05-22T14:51:33-07:00,support,very_negative,The support service is described as horrible and ignorant.,[],True
+442,hollisiv,1,2024-05-21T09:29:17-07:00,support,very_negative,The seller feels that Shopify is enabling scam companies to harm their brand and is unresponsive to their concerns.,[],True
+443,Yuurrrtttt,1,2024-05-18T08:50:49-07:00,pricing,very_negative,"The customer experienced unexpected charges after canceling their store, leading to a strong negative perception of the company.","['refund policy', 'basic plan']",True
+444,ashren77,1,2024-05-17T15:04:46-07:00,support,very_negative,"The customer service experience has deteriorated significantly, leading to frustration.","['phone support', 'chat with an advisor']",True
+445,FirstPlaceTanny,1,2024-05-16T07:01:01-07:00,features,very_negative,"The app badge does not update after sending an order, causing frustration.",['App Badge'],True
+446,killyourtself,1,2024-05-15T19:04:39-07:00,pricing,very_negative,The reviewer believes that paying for this service is a poor investment.,[],True
+447,Ghlljbb,1,2024-05-15T10:52:30-07:00,support,very_negative,The customer feels trapped and frustrated due to the inability to cancel their subscription without proper support.,[],True
+448,Rauce Powers,1,2024-05-13T17:08:47-07:00,support,very_negative,The lack of customer service and support leads to frustration and dissatisfaction.,"['customer service', 'Chat feature', 'phone number']",True
+449,Tragicmcsix12,5,2024-05-12T17:26:12-07:00,other,very_positive,The reviewer highly values the hosting service.,[],False
+450,Modellrn,5,2024-05-11T07:44:07-07:00,pricing,very_positive,Shopify effectively supports business growth from a simple concept to significant revenue.,"['online platform', 'loan program', 'affordable pricing', 'scalability']",False
+451,Karmori.,1,2024-05-10T19:24:19-07:00,pricing,very_negative,The user is frustrated about not being able to get a refund after deactivating the app.,[],True
+452,DaveBryer,1,2024-05-10T08:35:55-07:00,support,very_negative,The customer is frustrated with poor customer service and unresolved issues.,"['tax calculation', 'Quickbooks integration', 'tax reporting']",True
+453,Pupi0428,5,2024-05-10T04:47:56-07:00,features,positive,The user loves the app but misses a specific feature related to sales tracking.,"['total sales display', 'daily sales', 'weekly sales', 'monthly sales']",False
+454,Semvbc,2,2024-05-09T23:40:02-07:00,ease-of-use,negative,The user finds the selling process challenging and requires guidance.,[],True
+455,007Cyclops,1,2024-05-09T17:50:17-07:00,security,very_negative,The user is frustrated with security issues and is considering leaving due to lack of updates.,"['login through outside browser', 'security updates']",True
+456,glace basha,1,2024-05-07T01:58:50-07:00,pricing,very_negative,The customer faced unexpected charges despite canceling their subscription.,"['subscription cancellation', 'free trial']",True
+457,ChillSloth112,5,2024-04-30T07:25:32-07:00,support,very_positive,The seller finds the service extremely helpful.,[],False
+458,JackG2018,5,2024-04-28T06:32:13-07:00,other,very_positive,The user is satisfied with how Shopify supports their business.,[],False
+459,juicetheduece,1,2024-04-26T15:41:32-07:00,support,very_negative,The cancellation process was extremely difficult and resulted in unexpected charges.,[],True
+460,Anonnnn81871926,1,2024-04-26T09:04:53-07:00,support,very_negative,The seller feels that Shopify unjustly holds funds and provides inadequate customer support.,"['chargebacks', 'refunds', 'customer service']",True
+461,Disgusted customer Zara,2,2024-04-25T09:12:26-07:00,support,negative,The customer is frustrated with the lack of knowledgeable support regarding balance card inquiries.,"['balance card', 'chat support', 'banking team']",True
+462,Phatphlyer,1,2024-04-23T21:20:39-07:00,support,very_negative,The customer is frustrated with the lack of resolution and communication regarding withheld funds.,[],True
+463,Honest_Reviews T-T,1,2024-04-22T20:05:03-07:00,support,very_negative,The user is frustrated with Shopify's lack of support and billing for non-existent stores.,[],True
+464,Xt0,1,2024-04-20T16:39:30-07:00,features,negative,The seller is disappointed with the limited international shipping options.,['international shipping'],True
+465,Tito751,1,2024-04-20T13:13:37-07:00,support,very_negative,The user is frustrated with ongoing charges after cancelling their account and lacks access to customer support.,"['app setup', 'cancellation process']",True
+466,fsgghjihfdv77,5,2024-04-18T11:42:18-07:00,ease-of-use,very_positive,The platform is highly supportive for beginners.,[],False
+467,VinnyTheMoose,1,2024-04-14T18:46:47-07:00,ease-of-use,very_negative,The payment processor setup is complicated and does not allow for re-verification of the same SSN.,"['payment processor', 'SSN verification']",True
+468,William smoke,1,2024-04-14T06:38:06-07:00,ease-of-use,very_negative,The user finds the app extremely frustrating.,[],True
+469,abbadabbbbbbba,1,2024-04-12T06:10:53-07:00,support,very_negative,"The customer experienced severe issues with customer support, leading to a loss of access to their store and frustration.",[],True
+470,les_100,1,2024-04-11T23:24:28-07:00,pricing,very_negative,The app complicates the pricing plan selection process by redirecting users to another website for the same purpose.,[],True
+471,Sativavie,1,2024-04-11T07:42:31-07:00,support,very_negative,"Shopify fails to protect users from fraudulent shops, leading to significant customer dissatisfaction.",[],True
+472,Dood Broman,2,2024-04-10T05:03:16-07:00,support,very_negative,"The customer service is severely lacking, leading to frustration over unresolved issues.","['customer service', 'phone support', '1099K correction']",True
+473,coryjbailey,1,2024-04-08T22:04:39-07:00,features,very_negative,The reviewer is frustrated with the lack of a Dark Mode feature and the limited availability of features on lower-tier plans.,"['Dark Mode', 'Shopify Plus plan']",True
+474,iluvyeshua2005,1,2024-04-06T16:39:59-07:00,ease-of-use,very_negative,The user is frustrated with the inability to complete the card input process due to a technical issue.,['card input'],True
+475,Ilay A,1,2024-04-05T15:30:24-07:00,pricing,very_negative,The customer is frustrated about being charged after deactivating their store and not receiving a refund.,"['refund policy', 'store deactivation']",True
+476,nickynick954,3,2024-04-04T08:20:35-07:00,features,neutral,There is a bug affecting user mentions in comments on specific iPhone models.,"['mentioning users in comments', 'user selection']",False
+477,The Review 81,2,2024-04-03T04:27:36-07:00,support,very_negative,The app has critical issues with loading pages and poor customer support.,"['Payouts', 'Invoicing', 'help center']",True
+478,gggajjej,1,2024-04-02T10:23:53-07:00,support,very_negative,The user is frustrated with the lack of customer service during system issues.,[],True
+479,Ya mans n em,1,2024-04-01T07:57:24-07:00,ease-of-use,very_negative,The new dashboard is perceived as very poor.,['dashboard'],True
+480,Holds money,1,2024-03-29T13:32:22-07:00,pricing,very_negative,The seller is frustrated with the frequent holds on their money.,[],True
+481,Vdah,1,2024-03-29T06:06:08-07:00,features,very_negative,The user is dissatisfied with the new dashboard and wants the old version back.,['dashboard'],True
+482,hdisiksbe,1,2024-03-24T16:11:22-07:00,support,very_negative,"Support has significantly declined over the years, leading to unresolved issues and frustration.","['phone service', 'chat support', 'chargebacks']",True
+483,hbeealtlh,3,2024-03-22T17:50:45-07:00,features,negative,The app has become less usable and lacks important features like capital balance.,['capital balance'],True
+484,CorundumKnight,1,2024-03-22T09:15:21-07:00,support,very_negative,"The seller experiences significant issues with account access, customer support, and security breaches.",[],True
+485,Omillo,1,2024-03-21T07:31:27-07:00,support,very_negative,"The seller feels that Square is withholding payments and not resolving issues, leading to a loss of trust.",[],True
+486,Aki_Tk,3,2024-03-18T21:21:45-07:00,ease-of-use,negative,"The app is overly complicated and unintuitive, making setup frustrating.","['app fluidity', 'settings pages', 'collection system', 'inventory editing page', 'templates']",True
+487,Samuel C. Love,5,2024-03-18T12:59:37-07:00,features,very_positive,"The new Shopify update for iPadOS significantly enhances the user experience, making it more desktop-like.","['desktop experience', 'iPad app']",False
+488,Robby Tearn,2,2024-03-17T22:26:43-07:00,ease-of-use,negative,The user is frustrated with the new mobile dashboard and prefers the old layout for ease of access.,"['OLD MOBILE SHOPIFY DASHBOARD', 'Today', 'Yesterday', 'This Week', 'This Month']",True
+489,Neptune586,1,2024-03-17T07:38:34-07:00,other,very_negative,"The commercials are perceived as highly annoying, leading to a strong negative reaction towards the company.","['commercials', 'cha Ching sound']",True
+490,f high gfghfgjfcg,5,2024-03-15T20:08:16-07:00,other,very_positive,The user expresses strong satisfaction with the product.,[],False
+491,Quinnington32,1,2024-03-15T12:48:32-07:00,support,very_negative,The customer is frustrated with the lack of effective customer service and difficulty in canceling their credit card.,"['customer service', 'cancel credit card']",True
+492,mmarti2007,1,2024-03-14T12:00:47-07:00,support,very_negative,The customer is frustrated with the verification process and lack of support for resolving issues.,"['payment info storage', 'verification code']",True
+493,Charliedelocho,5,2024-03-12T11:57:10-07:00,other,very_positive,The reviewer appreciates the app for helping elevate their business and encourages planning and strategizing.,[],False
+494,Blackbery-12,1,2024-03-12T06:09:25-07:00,ease-of-use,very_negative,"The user finds the website and app complicated, leading to frustration and feelings of being trapped in a subscription model.",[],True
+495,Marzus u,1,2024-03-11T12:38:24-07:00,ease-of-use,very_negative,The new dashboard interface is causing significant frustration.,"['old dashboard', 'new dashboard']",True
+496,ChangeMachine,4,2024-03-10T09:55:07-07:00,features,positive,The user appreciates the app but requests a night mode feature.,"['night mode', 'Shop app']",False
+497,Unhappy mobile,1,2024-03-09T15:30:49-07:00,ease-of-use,very_negative,The latest update has made the app less intuitive and harder to navigate.,['product orders'],True
+498,SagarandSagar1994,1,2024-03-08T14:18:17-07:00,support,very_negative,"The app has become glitchy and harder to use, with unresponsive support for bug reports.","['push notification order access', 'text field for comments', 'address field integration with Google Maps']",True
+499,Martyn6512,2,2024-03-07T08:15:27-07:00,features,negative,The user is dissatisfied with the new app dashboard and wants the old version back.,"['old app dashboard', 'real time visitor count']",True
