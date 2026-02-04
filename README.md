@@ -1,5 +1,3 @@
-# Create README.md
-cat > README.md << 'EOF'
 # Square Seller Insights Dashboard
 
 **Live Demo:** [square-seller-insights.streamlit.app](https://square-seller-insights.streamlit.app)
